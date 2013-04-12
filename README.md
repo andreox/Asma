@@ -1,4 +1,4 @@
 Asma
 ====
 
-stuffs written in Intel Assembly
+stuffs written in AT&T Assembly
